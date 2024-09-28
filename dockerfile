@@ -1,3 +1,3 @@
 
-from open jdk 11
+from open jdk 7
 
