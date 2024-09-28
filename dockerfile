@@ -1,1 +1,1 @@
-open jdk 1.8
+fronm open jdk 1.8
